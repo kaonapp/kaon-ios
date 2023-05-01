@@ -84230,7 +84230,7 @@ G(a){var s=null
 A.ag("Index 0: Home",s,s,s,B.d2,s,s)
 A.ag("Index 2: School",s,s,s,B.d2,s,s)
 A.ag("Index 3: wawaweewa",s,s,s,B.d2,s,s)
-return new A.A0(B.R3,"Flutter Demo",A.aEA(s,B.Mb,s),s)}}
+return new A.A0(B.R3,"KAON",A.aEA(s,B.Mb,s),s)}}
 A.qc.prototype={
 X(){var s=$.be,r=(s==null?$.be=$.cX():s).cY(0,"[DEFAULT]")
 A.bW(r,$.cy(),!0)
